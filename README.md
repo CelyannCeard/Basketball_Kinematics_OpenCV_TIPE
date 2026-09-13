@@ -28,10 +28,18 @@ Once the raw tracking data is exported, the physical analysis is performed:
 * **Coefficient of Restitution ($e$):** Calculated as the absolute value of the ratio between the relative speed after the collision and the relative speed before the collision. 
 * **Data Filtering:** To ensure accuracy, the exact moment of impact is excluded from the speed averages, as the physical deformation of the ball momentarily alters the center of the pixel mass detected by OpenCV.
 
+<p align="center">
+<img width="602" height="436" alt="Capture d&#39;écran 2026-09-13 171937" src="https://github.com/user-attachments/assets/6260652d-90ba-4971-8904-bceca2c3b8d3" />
+</p>
+
 <br>
 
 ## 📊 Results & Conclusion
 By comparing multiple material combinations, the data revealed that a **rubber basketball** bouncing on a **polyurethane-coated concrete floor** yields the highest Coefficient of Restitution (closest to 1), providing the most efficient and consistent bounce for gameplay.
+
+<p align="center">
+<img width="669" height="155" alt="Capture d&#39;écran 2026-09-13 172239" src="https://github.com/user-attachments/assets/91e09bfe-e240-428d-a0cf-a9aa9d2658ad" />
+</p>
 
 <br>
 
