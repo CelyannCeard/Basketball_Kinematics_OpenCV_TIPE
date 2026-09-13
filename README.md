@@ -19,6 +19,10 @@ The repository contains several iterations of the script, fine-tuned (HSV parame
 * **Barycenter Tracking:** Using `cv2.moments`, the program calculates the centroid of the filtered pixels for each frame, placing a red tracking marker on the ball's center.
 * **Data Extraction:** The script prints the elapsed time and the Y-axis pixel position to the console for further data processing.
 
+<p align="center">
+<img width="1366" height="765" alt="Capture d&#39;écran 2026-09-13 172547" src="https://github.com/user-attachments/assets/23bfb9e6-e2f0-4163-baf2-c560c989ff1d" />
+</p>
+
 <br>
 
 ## 🔬 Physics & Data Analysis
@@ -30,6 +34,10 @@ Once the raw tracking data is exported, the physical analysis is performed:
 
 <p align="center">
 <img width="602" height="436" alt="Capture d&#39;écran 2026-09-13 171937" src="https://github.com/user-attachments/assets/6260652d-90ba-4971-8904-bceca2c3b8d3" />
+</p>
+
+<p align="center">
+<img width="1402" height="699" alt="Capture d&#39;écran 2026-09-13 172425" src="https://github.com/user-attachments/assets/ae96936d-dcd7-4b93-8767-fb7c9ca767bb" />
 </p>
 
 <br>
